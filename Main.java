@@ -1,5 +1,5 @@
 public class Main {
-    //comments for github
+    //githab's comments for pull
     public static void main(String[] args) {
         Dog bob = new Dog("Bob", 500, 15);
         Cat tom = new Cat("Tom",150);

@@ -1,5 +1,5 @@
 public class Animal {
-    //comments for github
+    //githab's comments for pull
     void run (int i){
     }
 

@@ -1,5 +1,5 @@
 public class Dog extends Animal{
-    //comments for github
+    //githab's comments for pull
     private String name;
     private int limitation;
     private int swimlimit;
