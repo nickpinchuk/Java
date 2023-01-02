@@ -1,8 +1,11 @@
 public class Main {
+    //comments for github
     public static void main(String[] args) {
-        System.out.println("Hey people");
-        System.out.println("args =  + args");
-        System.out.println("Test one");
-        System.out.println("Test number two");
+        Dog bob = new Dog("Bob", 500, 15);
+        Cat tom = new Cat("Tom",150);
+
+        bob.run(500);
+        tom.run(2222);
+        bob.swim(15);
     }
 }
