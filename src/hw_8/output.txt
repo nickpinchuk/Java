@@ -4,3 +4,7 @@
 [Wed Jan 18 00:27:33 GMT+02:00 2023][INFO] Message: Test 2 
 [Wed Jan 18 00:33:55 GMT+02:00 2023][INFO][DEBUG] Message: Test 
 [Wed Jan 18 00:33:55 GMT+02:00 2023][INFO] Message: Test 2 
+[Wed Jan 18 00:46:47 GMT+02:00 2023][INFO][DEBUG] Message: Test 
+[Wed Jan 18 00:46:47 GMT+02:00 2023][INFO] Message: Test 2 
+[Thu Jan 19 20:38:33 GMT+02:00 2023][INFO][DEBUG] Message: Testwerwer 
+[Thu Jan 19 20:38:33 GMT+02:00 2023][INFO] Message: Test 2werwer 
