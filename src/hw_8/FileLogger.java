@@ -1,4 +1,5 @@
 package hw_8;
+
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -6,8 +7,8 @@ import java.io.IOException;
 
 public class FileLogger extends FileLoggerConfiguration {
     public static void main(String[] args) {
-        debug("Test");
-        info("Test 2");
+        debug("Testwerwer");
+        info("Test 2werwer");
     }
 
     public static void debug(String line) {
