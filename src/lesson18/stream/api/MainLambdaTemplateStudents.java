@@ -23,7 +23,6 @@ import static lesson18.stream.api.Vitamin.P;
 public class MainLambdaTemplateStudents implements Comparable<Fruit> {
     public static void main(String[] args) {
         List<Fruit> fruits = fillFruitsList();
-//        fruits.forEach(System.out::println);
 
         System.out.println("Part 1");
 
@@ -77,8 +76,6 @@ public class MainLambdaTemplateStudents implements Comparable<Fruit> {
 
 
         System.out.println("****");
-//        fruits.stream()
-//                .collect(Collectors.toMap(Fruit::getFruitType, Function.identity(), (fruit1, fruit2) -> );
 
     }
 
